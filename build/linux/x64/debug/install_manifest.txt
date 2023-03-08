@@ -1,0 +1,16 @@
+/home/sabith/flutterProject/flutter_expensetracker/build/linux/x64/debug/bundle/my_app
+/home/sabith/flutterProject/flutter_expensetracker/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/sabith/flutterProject/flutter_expensetracker/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/sabith/flutterProject/flutter_expensetracker/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/waiting.png
+/home/sabith/flutterProject/flutter_expensetracker/build/linux/x64/debug/bundle/data/flutter_assets/assets/fonts/OpenSans-Bold.ttf
+/home/sabith/flutterProject/flutter_expensetracker/build/linux/x64/debug/bundle/data/flutter_assets/assets/fonts/Quicksand-Regular.ttf
+/home/sabith/flutterProject/flutter_expensetracker/build/linux/x64/debug/bundle/data/flutter_assets/assets/fonts/Quicksand-Bold.ttf
+/home/sabith/flutterProject/flutter_expensetracker/build/linux/x64/debug/bundle/data/flutter_assets/assets/fonts/OpenSans-Regular.ttf
+/home/sabith/flutterProject/flutter_expensetracker/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/sabith/flutterProject/flutter_expensetracker/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/sabith/flutterProject/flutter_expensetracker/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/sabith/flutterProject/flutter_expensetracker/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/sabith/flutterProject/flutter_expensetracker/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/sabith/flutterProject/flutter_expensetracker/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/sabith/flutterProject/flutter_expensetracker/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/sabith/flutterProject/flutter_expensetracker/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
